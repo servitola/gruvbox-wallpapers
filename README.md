@@ -1,3 +1,10 @@
+# servitola Disclaimer
+
+It's a fork of https://github.com/AngelJumbo/gruvbox-wallpapers
+I like the collection but the repository weight is too big even with depth=1. So I leave only 'irl' folder and remove the rest. Thank you AngleJumbo for the repository.
+
+This repository is synced daily with the original repository.
+
 # Gruvbox Wallpapers
 A place where to find gruvbox theme wallpapers.
 [https://gruvbox-wallpapers.pages.dev/](https://gruvbox-wallpapers.pages.dev/ 'Gruvbox Wallpapers')
@@ -16,6 +23,6 @@ A place where to find gruvbox theme wallpapers.
 
 I tend to accept any contributions, but let's keep the site with images that match or look good with the gruvbox's color scheme :').
 
-## Disclaimer 
+## Disclaimer
 
 Most of the images shared here are community contributions, and their original sources are often unknown. If you are the rightful owner of any image and would like it removed, please contact me by opening an issue. For any use beyond personal scope, I recommend performing a reverse image search to verify the origin.
