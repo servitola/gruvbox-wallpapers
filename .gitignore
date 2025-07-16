@@ -1,2 +1,3 @@
 *.html
 thumbnails/
+.DS_Store
